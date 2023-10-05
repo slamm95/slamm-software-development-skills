@@ -1,0 +1,14 @@
+{
+  "name": "slamm-software-development-skills",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w Module1/scss/ -o Module1/dist/css/ --recursive"
+  },
+  "author": "slamm",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
